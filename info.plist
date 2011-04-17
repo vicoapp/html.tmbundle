@@ -18,7 +18,6 @@
 	<dict>
 		<key>excludedItems</key>
 		<array>
-			<string>7B7E945E-A112-11D9-A5A2-000D93C8BE28</string>
 			<string>3C44EABE-8D6F-4B1B-AB91-F419FAD1A0AD</string>
 		</array>
 		<key>items</key>
@@ -212,7 +211,6 @@
 		<string>CD6D2CC6-6B33-11D9-BDFD-000D93589AF6</string>
 		<string>52124611-B363-40AD-B9F0-0A811941CD20</string>
 		<string>EBE53CE6-AEBB-4318-AE98-D07F3755E3F9</string>
-		<string>7B7E945E-A112-11D9-A5A2-000D93C8BE28</string>
 		<string>4462A6B8-A08A-11D9-A5A2-000D93C8BE28</string>
 		<string>4905D47B-A08B-11D9-A5A2-000D93C8BE28</string>
 		<string>3E008E42-A5C9-11D9-9BCD-000D93C8BE28</string>
